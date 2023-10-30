@@ -13,3 +13,4 @@ lightglue/_flash/
 *.profile
 .vscode
 megadepth_test_1500
+venv/
